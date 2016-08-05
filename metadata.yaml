@@ -1,0 +1,35 @@
+_repo: The-Boy-Scout-Camera-Club--Or-the-Confession-of-a-Photograph_7356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ralphson, G. Harvey (George Harvey)
+    aliases:
+    - Ralphson, George Harvey
+    - Ralphson, George H.
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '849'
+    url: http://www.gutenberg.org/2009/agents/849
+    wikipedia: http://en.wikipedia.org/wiki/George_Harvey_Ralphson
+description: ''
+gutenberg_bookshelf:
+- Scouts
+- Children's Book Series
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Appalachian Mountains -- Juvenile fiction'
+- !lcsh 'United States. Secret Service -- Juvenile fiction'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Photography -- Juvenile fiction'
+- GITenberg
+title: The Boy Scout Camera Club; Or, the Confession of a Photograph
+url: http://www.gutenberg.org/ebooks/7356
